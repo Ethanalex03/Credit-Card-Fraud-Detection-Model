@@ -30,6 +30,7 @@ The project uses a credit card transactions dataset containing:
 - **Features:** 30 numerical features (V1-V28 are PCA-transformed, plus Time and Amount)
 - **Target Variable:** Class (0 = Legitimate, 1 = Fraudulent)
 - **Imbalance Ratio:** Highly imbalanced with only 0.17% fraudulent transactions
+- Download the dataset here: [creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 
 ### Data Characteristics
 - **Legitimate Transactions:** 284,315 (99.83%)
